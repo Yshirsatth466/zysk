@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+.custom-letter-spacing {
+  letter-spacing: -0.02em;  /* Negative 2% */
+}
+
+.candice-wu {
+  background-color: rgba(249, 250, 251, 1);
+}
+
+.custom-text-gray {
+  color: rgba(71, 84, 103, 1);
+}
+
+.w-768px {
+  width: 768px;
+}
+
+.bg-avatar-group {
+ background: rgba(249, 250, 251, 1);
+}
